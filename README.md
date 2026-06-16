@@ -13,6 +13,7 @@
 - 🤔 I’m looking for help with Open Source Contributions and scalable software design.
 - ⚙️ I use daily: `.NET`, `C#`, `Entity Framework Core`, `MySQL`, `PostgreSQL`, `Git`, `GitHub`, `Docker`
 - 💬 Ask me about **C#**, **.NET**, **REST APIs**, **Databases**,, and **Backend Development**.
+- 🖥️ Outside of coding, I enjoy **playing video games** and **watching anime**.
 
 </td>
 <td width="50%" align="center">
