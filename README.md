@@ -5,3 +5,18 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/hidrobo2003/hidrobo2003/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
+
+# 📊Github Stats <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hidrobo2003&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hidrobo2003&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidrobo2003&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+# 🌐Find me in <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-hidrobo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresmhidroboe@gmail.com)
+
+
